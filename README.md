@@ -1,4 +1,4 @@
-# Curso Python – Sebastián Begazo Alvarez
+# Curso Python – Sebastian Begazo Alvarez
 
 Este repositorio contiene mi proceso de aprendizaje en Python aplicado a ingeniería mecánica y análisis de confiabilidad.
 
